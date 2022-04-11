@@ -56,12 +56,6 @@
             "name": "VITIMAS"
           }
         ]
-      },
-      "stats": {
-        "hash": "9cec5a826adc33d4384131cf187fea94",
-        "bytes": 62757,
-        "fields": 9,
-        "rows": 1359
       }
     },
     {
@@ -102,16 +96,11 @@
             "name": "VITIMAS"
           }
         ]
-      },
-      "stats": {
-        "hash": "626ea19368362954d60961c5c5d83027",
-        "bytes": 7911130,
-        "fields": 6,
-        "rows": 248346
       }
     }
   ],
   "profile": "data-package",
-  "name":"teste-sejusp",
-  "title":"Preparativo para hands-on"
+  "name": "teste-sejusp",
+  "title": "Preparativo para hands-on",
+  "owner_org":"secretaria-de-estado-de-justica-e-seguranca-publica-sejusp"
 }
